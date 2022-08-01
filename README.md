@@ -1,7 +1,7 @@
 ## Hello World App
 
 ### App Description
-`TODO://` An application that displays Hello World and allows the user to change the color
+`TODO://` An application that displays Hello World and allows the user to change the color of the text, customize the text that displays to the screen and change background color.
 
 ### App Walk-though
 
