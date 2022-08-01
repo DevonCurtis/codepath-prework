@@ -27,7 +27,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var Label: UILabel!
     @IBAction func ChangeText(_ sender: Any) {
         result = TextField.text!
-        Label.text = "\(result)"
+        Label.text = "\(result!)"
         TextField.resignFirstResponder()
     }
 }
