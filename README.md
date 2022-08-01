@@ -6,6 +6,8 @@
 ### App Walk-though
 
 ![](https://i.imgur.com/MXJwaQw.gif)
+![](https://i.imgur.com/icpqa7m.gif)
+![](https://i.imgur.com/VOh0k3B.gif)
 
 <br>
 
